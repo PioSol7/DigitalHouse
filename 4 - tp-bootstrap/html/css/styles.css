@@ -1,0 +1,55 @@
+.fondo-azul, .redes-sociales{
+  background-color: #2C3E50;
+}
+
+.portfolio, .about{
+  background-color: #18BC9C;
+}
+
+.about-green{
+  color: #18BC9C;
+}
+
+.center{
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.color-blanco{
+  color: white;
+}
+
+.navbar-toggler, .button-color{
+  background-color: #18BC9C;
+  color: white;
+}
+
+h2, h4, .montserrat{
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+}
+
+section h6, p{
+  font-family: 'Lato', sans-serif;
+  font-size: 120%;
+}
+
+footer{
+  background-color: rgb(29, 41, 53);
+  padding-bottom: 20px;
+  padding-top: 20px;
+  font-size: 60%;
+}
+
+.conteiner div img{
+  width: 100%;
+  padding: 10px;
+}
+
+section article{
+  padding: 20px;
+
+
+}
+
